@@ -1,0 +1,76 @@
+html, body{
+    height: 95%;
+    width: 100%;
+}
+#kopf{
+    border: black 1px solid;
+    width: 99%;
+}
+.left{
+    border: black 1px solid;
+    width: 5%;
+    height: 100%;
+    float: left;
+}
+.events{
+    border: black 1px solid;
+    width: 15%;
+    height: 100%;
+    float: left;
+}
+.mitte{
+    border: black 1px solid;
+    width: 48%;
+    height: 100%;
+    float: left;
+}
+.rechts{
+    border: black 1px solid;
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+.graph{
+    border: black 1px solid;
+    width: 98%;
+    height: 65%;
+    margin: 1%;
+
+}
+.block1{
+    border: black 1px solid;
+    width: 98%;
+    height: 32%;
+    margin: 1%;
+}
+.block2, .block3{
+    border: black 1px solid;
+    width: 98%;
+    height: 49%;
+    margin: 1%;
+}
+.scenario{
+    border: black 1px solid;
+    width: 97%;
+    height: 59%;
+    margin: 1%;
+}
+.buttons{
+    border: black 1px solid;
+    width: 97%;
+    height: 40%;
+    margin: 1%;
+}
+.uber, .u1, .u2, .u3, .u4{
+    border: black 1px solid;
+    width: 97%;
+    height: 19%;
+    margin: 1%;
+}
+.b1, .b2, .b3, .b4, .b5, .b6{
+    border: black 1px solid;
+    width: 46%;
+    height: 31%;
+    margin: 1%;
+    float: left;
+}
